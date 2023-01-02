@@ -19,7 +19,7 @@ body {
     text-transform: uppercase;
 }
     a {
-        text-decoration: line-through;
+        text-decoration: none;
         color: #505050;
     }
 
@@ -41,7 +41,7 @@ body {
 .post_content {
     margin: 0;
     margin-bottom: 15px;
-    text-transform: capitalize ;
+    text-transform: none ;
 
 }
 
